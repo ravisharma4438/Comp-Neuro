@@ -18,3 +18,7 @@ This program was created using the theory from the paper "Optimal policy for val
 ## Acknowledgments
 
 Special thanks to Dr. Jan Drugowitsch at Harvard Medical School for his guidance.
+
+## Image
+
+![alt text](2dPlot.png "Description goes here")
