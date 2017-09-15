@@ -29,9 +29,9 @@ surf(r1,r2,Vtzero)
 
 
 %code involved in ultimately plotting (r1-r2)/2 against V
-p=r1.-r2(1);
+p=r1-r2(1); %.- better for octave? MATLAB didn't like it
 for i = 2:length(r1) %assumption that r1 and r2 are same length
-  nxt=r1.-r2(i);
+  nxt=r1-r2(i); %.- better for octave? MATLAB didn't like it
   p=cat(2,p,nxt);
 end
 p = p./2;
@@ -80,7 +80,8 @@ w(a);
 %plot(p(a),v(a))
 %hold off;
 
-
+%took out endfunction after next line. MATLAB doesn't recognize
 x=zeros(length(r1)+length(r2));
 
-endfunction
+
+
