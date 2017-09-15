@@ -17,4 +17,4 @@ This program was created using the theory from the paper "Optimal policy for val
 
 ## Acknowledgments
 
-* Special thanks to Dr. Jan Drugowitsch at Harvard Medical School for his guidance.
+Special thanks to Dr. Jan Drugowitsch at Harvard Medical School for his guidance.
