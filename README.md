@@ -1,5 +1,4 @@
 # Comp-Neuro-Harvard
-# Project Title
 
 This project models human decision-making behavior in which a person is trying to choose between two items (such as two menu items at a restaurant) . The attached pictures show the decision surfaces for deciding immediately, delaying a decision, and a 2d reduction of the problem.
 
@@ -18,7 +17,3 @@ This program was created using the theory from the paper "Optimal policy for val
 ## Acknowledgments
 
 Special thanks to Dr. Jan Drugowitsch at Harvard Medical School for his guidance.
-
-## Image
-
-![alt text](2dPlot.png "Description goes here")
