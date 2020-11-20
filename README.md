@@ -1,4 +1,4 @@
-# Comp-Neuro-Harvard
+# Comp-Neuro
 
 This project models human decision-making behavior in which a person is trying to choose between two items (such as two menu items at a restaurant) . The attached pictures show the decision surfaces for deciding immediately, delaying a decision, and a 2d reduction of the problem.
 
